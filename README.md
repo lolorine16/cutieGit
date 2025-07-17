@@ -7,7 +7,7 @@ A splash of color in your terminal life! 💕
 ### 🍵 Why CutieGit?
 
 Because sometimes you're just too lazy to manually delete the entire repo after extracting only one or two files.  
-I'm sure you already have a million Git or file management aliases to simplify your navigation — but trust me, all you need now is to type `cutieGit` and **BOOM SHAKALAKA!**, you're done 😆✨
+I'm sure you already have a million Git or file management aliases to simplify your navigation ~ but trust me, all you need now is to type `cutieGit` and **BOOM SHAKALAKA!**, you're done 😆✨
 
 **It's made for lazy folks, and it's made to be cute 💕**
 
