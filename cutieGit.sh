@@ -43,7 +43,7 @@ if [ -f "$target_file" ] || [ -d "$target_file" ]; then
   mv temp_cutie "$folder_name"
   echo -e "\033[1;32m║File successfully extracted to $folder_name!\033[0m"
 else
-  echo -e "\033[1;31m║The file '$target_file' does not exist in the repo.\033[0m"
+  echo -e "\033[1;91m║The file '$target_file' does not exist in the repo.\033[0m"
   rm -rf "$folder_name"
 fi
 
