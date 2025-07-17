@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Load color utilities
+source "$(dirname "$0")/utils/colors.sh"
+
 
 echo "╔═════════════════════════════════════════════════════════════════════════════════════════╗"
 
