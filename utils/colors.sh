@@ -22,13 +22,3 @@ PASTEL_TURQUOISE='\033[38;2;175;238;238m'
 # Reset
 RESET='\033[0m'
 
-#Exemple
-echo -e "${PINK}Rose Pastel${RESET}"
-echo -e "${BABY_PINK}Baby Pink${RESET}"
-echo -e "${SOFT_PURPLE}Soft Purple${RESET}"
-echo -e "${BABY_BLUE}Baby Blue${RESET}"
-echo -e "${SKY_BLUE}Sky Blue${RESET}"
-echo -e "${LAVENDER}Lavender${RESET}"
-echo -e "${PASTEL_YELLOW}Pastel Yellow${RESET}"
-echo -e "${PEACH}Peach${RESET}"
-echo -e "${PASTEL_TURQUOISE}Pastel Turquoise${RESET}"
